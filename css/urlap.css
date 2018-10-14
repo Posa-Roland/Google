@@ -1,0 +1,22 @@
+fieldset{
+    background-color:#3498DB;
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+  
+}
+html{
+    background-color: #154360;
+}
+h3{
+    font-family: 'Libre Franklin', sans-serif;
+}
+body{
+    text-align: left;
+}
+button{
+    float:right;
+}
+a{
+    color: #fff;
+}
